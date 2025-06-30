@@ -58,8 +58,8 @@ This project is a modern, responsive Nike landing page built with React.js and T
 ### Installation
 
 ```sh
-git clone https://github.com/your-username/nike-landing-page.git
-cd nike-landing-page
+git clone https://github.com/senutpal/nike-website-landing-page.git
+cd nike-website-landing-page
 npm install
 ```
 
@@ -75,24 +75,4 @@ Open [http://localhost:5173](http://localhost:5173) in your browser to view the 
 
 ```sh
 npm run build
-```
-
----
-
-## Project Structure
-
-```
-src/
-  assets/         # Images and icons
-  components/     # Reusable React components
-  constants/      # Static data/constants
-  sections/       # Page sections as components
-  App.jsx         # Main app component
-  main.jsx        # Entry point
-  index.css       # Tailwind and global styles
-public/
-  favicon.ico
-  vite.svg
-index.html
-...
 ```
